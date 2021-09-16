@@ -1,1 +1,0 @@
-This is Kichizaemon's first git project
